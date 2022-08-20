@@ -4,7 +4,7 @@ library(shiny)
 ui <- fluidPage(
   
   # Application title
-  titlePanel("Old Faithful Geyser Data"),
+  titlePanel("Changing the bins of a histogram for Stat210"),
   
   # Sidebar with a slider input for number of bins 
   sidebarLayout(
